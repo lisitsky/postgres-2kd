@@ -1,6 +1,6 @@
-# pg350d
+# pg2kd
 
-Docker build of postgresql-9.6 changing the dimension limit for the cube extension, raising it to 350.
+Docker build of postgresql-9.6 changing the dimension limit for the cube extension, raising it to 2000.
 
 This is needed to be able to work with words embedding with postgres.
 
@@ -31,7 +31,7 @@ The image dockerhub page is [here](https://hub.docker.com/r/oelmekki/pg350d/).
 To pull it:
 
 ```
-docker pull oelmekki/pg350d
+docker pull lisitsky/postgres-2kd
 ```
 
 
