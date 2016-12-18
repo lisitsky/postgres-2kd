@@ -26,7 +26,7 @@ your backups (and not upgrade postgres if you usually do so through dump/import)
 
 ## Download
 
-The image dockerhub page is [here](https://hub.docker.com/r/oelmekki/pg350d/).
+The image dockerhub page is [here](https://hub.docker.com/r/lisitsky/postgres-2kd).
 
 To pull it:
 

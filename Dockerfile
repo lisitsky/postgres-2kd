@@ -1,5 +1,5 @@
 FROM postgres:9.6
-MAINTAINER Olivier El Mekki <olivier@el-mekki.com>
+MAINTAINER Eugene Lisitsky <lisitsky@gmail.com>
 
 ENV PG_VERSION 9.6.0
 
